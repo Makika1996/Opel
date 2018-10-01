@@ -1,0 +1,64 @@
+.black {
+  background-color: black;
+  margin: 0 300px;
+}
+
+aside {
+  margin-top: 10px;
+  margin-right: 100px;
+  float: right;
+}
+
+.wrap {
+  margin-right: 250px;
+
+  .vozila {
+    margin: 20px;
+    padding: 20px 10px;
+    border: 1px solid white;
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 20px 0;
+
+      tr {
+        td,
+        th {
+          padding: 5px 10px;
+          border: 1px solid white;
+        }
+      }
+    }
+  }
+
+  .ponuda {
+    margin: 20px;
+    padding: 20px 10px;
+    border: 1px solid white;
+
+    h2 {
+      padding-bottom: 20px;
+    }
+
+    img {
+      float: left;
+    }
+  }
+
+  .novosti {
+    margin: 20px;
+    padding: 20px 10px;
+    border: 1px solid white;
+
+    h2 {
+      padding-bottom: 20px;
+    }
+
+    iframe {
+      border: none;
+      width: 100%;
+      height: 300px;
+    }
+  }
+}

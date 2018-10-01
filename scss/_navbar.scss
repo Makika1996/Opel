@@ -1,0 +1,20 @@
+nav {
+  a {
+    // display: inline; default value
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+
+    &:hover {
+      background-color: #FFDE00;
+      color: #000;
+      font-weight: bold;
+    }
+  }
+}
+
+.right  {
+  float: right;
+}

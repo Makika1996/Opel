@@ -1,0 +1,6 @@
+.wrap-header {
+  background-color: black;
+  margin: 0 300px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
