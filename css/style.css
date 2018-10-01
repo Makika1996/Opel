@@ -34,11 +34,11 @@ body {
       padding-bottom: 10px; }
 
 nav a {
+  margin: 10px;
+  padding: 10px;
   display: inline-block;
   color: white;
-  text-decoration: none;
-  margin: 10px;
-  padding: 10px; }
+  text-decoration: none; }
   nav a:hover {
     background-color: #FFDE00;
     color: #000;

@@ -1,11 +1,11 @@
 nav {
   a {
+    margin: 10px;
+    padding: 10px;
     // display: inline; default value
     display: inline-block;
     color: white;
     text-decoration: none;
-    margin: 10px;
-    padding: 10px;
 
     &:hover {
       background-color: #FFDE00;
@@ -15,6 +15,6 @@ nav {
   }
 }
 
-.right  {
+.right {
   float: right;
 }
